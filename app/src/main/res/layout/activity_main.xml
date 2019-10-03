@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="generatebarcode.com.generatebarcode.activity.MainActivity">
+    tools:context="com.generatebarcode.activity.MainActivity">
 
     <LinearLayout
         android:id="@+id/add_code"
